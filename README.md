@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Swastik K 👋</h1>
 
 <p align="center">
-  <strong>Senior AI Engineer</strong> • GenAI • RAG • Multi-Agent Systems • Search & Retrieval
-</p>
+  <strong>Senior AI Engineer</strong> • GenAI • RAG • Multi-Agent Systems • Search & Retrieval • Machine Learning • MLOps
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swastik-k-173b84151/">
@@ -20,7 +19,9 @@
 
 ## About Me
 
-Senior AI Engineer with 5+ years of experience building and scaling **production-grade AI systems**.
+Senior AI Engineer with 5 years of experience in building and scaling end-to-end **AI agents, RAG, and ML systems**.
+Demonstrated success in bridging the gap between rapid experimentation and production, delivering high-impact AI
+solutions with a strong emphasis on continuous evaluation, model monitoring, and MLOps infrastructure.
 
 I work at the intersection of:
 - Generative AI (LLMs, Agents)
