@@ -1,120 +1,124 @@
-# 👋 Hi, I'm Swastik K
+<h1 align="center">Hi, I'm Swastik K 👋</h1>
 
-**Senior AI Engineer | GenAI • RAG • Multi-Agent Systems • Search & Retrieval**
+<p align="center">
+  <strong>Senior AI Engineer</strong> • <strong>GenAI</strong> • <strong>RAG</strong> • <strong>Multi-Agent Systems</strong> • <strong>Search & Retrieval</strong>
+</p>
 
-📍 Bangalore, India  
-📧 kswastik29@gmail.com  
-
----
-
-## 🚀 About Me
-
-I’m a **Senior AI Engineer with 5+ years of experience** building and scaling **production-grade AI systems**, specializing in:
-
-- Multi-Agent Systems (LangGraph, ReAct)
-- Retrieval-Augmented Generation (RAG)
-- Information Retrieval & Search Systems
-- End-to-End ML Pipelines & MLOps
-
-I focus on **bridging experimentation and production**, ensuring systems are:
-- Reliable  
-- Observable  
-- Scalable  
-- Measurable  
+<p align="center">
+  <a href="https://www.linkedin.com/in/<your-linkedin>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://<your-portfolio>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:kswastik29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🧠 What I Work On
+## About Me
 
-### 🤖 GenAI & LLM Systems
-- Multi-agent architectures using LangGraph  
-- RAG pipelines (multimodal, hybrid retrieval)  
-- Prompt engineering, evaluation (Ragas), observability (Langfuse)  
+Senior AI Engineer with 5+ years of experience building and scaling production-grade AI systems.
 
-### 🔍 Search & Retrieval
-- Hybrid search (BM25 + dense + ColBERT)  
-- Skill normalization & ranking systems  
-- Vector databases (Qdrant, Elasticsearch)  
+I specialize in:
+- End-to-end RAG pipelines
+- Multi-agent systems
+- Search and retrieval systems
+- Applied ML and MLOps
+- Production AI evaluation, monitoring, and observability
 
-### ⚙️ ML Systems & MLOps
-- Production ML pipelines (MLflow, DVC)  
-- Model monitoring & evaluation frameworks  
-- Low-latency APIs with FastAPI  
+I focus on building systems that are not only accurate, but also reliable, measurable, and scalable.
 
 ---
 
-## 💼 Experience Highlights
+## What I Do
 
-### 🏢 Staff Specialist AI Engineer — Infineon Technologies
-- Built multi-agent technical support assistant → +60% answer relevancy  
-- Designed multimodal RAG pipeline → +70% relevancy  
-- Productionized ML models with 90% F1 score  
-
-### 🏢 Senior Search Specialist — HerKey
-- Built hybrid retrieval system → 6× faster candidate search  
-- Improved precision@10 by 25% with ML-based reranking  
-- Achieved <100ms latency in production APIs  
-
-### 🏢 Senior Software Engineer — Engati
-- Built conversational AI across domains → +40% engagement  
-- Designed Text-to-SQL system (85% accuracy)  
-- Developed LLM-powered chatbot for enterprise clients  
+- Design and ship GenAI applications for real production use cases
+- Build retrieval pipelines with hybrid search, embeddings, and reranking
+- Develop multi-agent workflows for complex enterprise tasks
+- Productionize ML models with reproducibility and monitoring
+- Improve latency, relevancy, and developer productivity through system design
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages & Backend**
-- Python, SQL, FastAPI, Kafka  
-
-**AI / ML**
-- PyTorch, Scikit-learn, XGBoost  
-- Sentence Transformers  
-
-**GenAI**
-- LLMs, LangChain, LangGraph  
-- RAG, Multi-Agent Systems  
-
-**Search & Retrieval**
-- BM25, RRF, Dense Retrieval, ColBERT  
-- Elasticsearch, Qdrant  
-
-**MLOps & Infra**
-- AWS, Docker  
-- MLflow, DVC  
-- CI/CD, Langfuse  
-
----
-
-## 📌 Key Achievements
-
-- 🚀 Improved dashboard latency by **80% (20s → 3s)**  
-- 📈 Fixed monitoring issues across **50+ microservices**  
-- ⚡ Built scalable systems balancing **latency and relevance**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/BM25-6B7280?style=flat-square" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square" />
+</p>
 
 ---
 
-## 🔬 Open Source
+## Experience Highlights
 
-### 🔗 LangChain Skills Adapter
-- Plugin to integrate Agent Skills into LangChain workflows  
-- Simplifies building modular agentic systems  
+### Staff Specialist AI Engineer — Infineon Technologies
+- Built a scalable multi-agent technical support assistant using LangGraph
+- Improved answer relevancy by 60% through deep research and evaluation
+- Architected a multimodal RAG pipeline for PDFs and PPTs
+- Productionized ML workflows with MLflow and DVC
+
+### Senior Search Specialist — HerKey
+- Built a hybrid retrieval pipeline using BM25, ColBERT, and skill normalization
+- Reduced recruiter search time from hours to minutes
+- Improved precision@10 by 25% using a classifier-based pre-filtering layer
+- Delivered production APIs with p95 latency under 100ms
+
+### Senior Software Engineer — Engati
+- Built multi-turn conversational AI assistants across multiple domains
+- Improved user engagement by 40% and lead conversion by 150%
+- Built a Text-to-SQL system with 85% accuracy
+- Shipped an LLM-powered chatbot for enterprise product discovery
+
+---
+
+## Selected Impact
+
+- Improved dashboard load time by 80% by resolving AWS EFS-related latency issues
+- Fixed a Prometheus memory alert rule using Linux fundamentals and monitoring analysis
+- Built production AI systems with strong emphasis on evaluation, observability, and reliability
 
 ---
 
-## 📈 What You’ll Find on My GitHub
+## Open Source
 
-- Production-inspired AI system designs  
-- RAG pipelines & retrieval experiments  
-- Multi-agent workflows  
-- Search & ranking systems  
-- Practical ML + MLOps implementations  
+### LangChain Skills Adapter
+A LangChain plugin for integrating Agent Skills into agentic workflows and improving developer productivity.
 
 ---
 
-## 🤝 Let’s Connect
+## Featured Focus Areas
 
-- 💼 LinkedIn  
-- 🌐 Portfolio  
+- Generative AI applications
+- Retrieval-augmented generation
+- Multi-agent orchestration
+- Semantic search and ranking
+- ML system design
+- AI evaluation and observability
 
 ---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
+
+---
+
+## Connect
+
+- LinkedIn: <your-linkedin>
+- Portfolio: <your-portfolio>
+- Email: kswastik29@gmail.com
