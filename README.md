@@ -36,7 +36,7 @@ My focus is simple: **build AI systems that actually work in production** — no
 
 - Designing **end-to-end RAG pipelines** (multimodal, hybrid retrieval)
 - Building **multi-agent systems** using LangGraph & ReAct
-- Developing **search and ranking systems** (BM25 + dense + reranking)
+- Developing **search and ranking systems** (BM25 + dense embedding + reranking)
 - Productionizing ML systems with **evaluation, monitoring, and observability**
 - Optimizing systems for **latency, relevance, and scale**
 
@@ -90,7 +90,7 @@ My focus is simple: **build AI systems that actually work in production** — no
 👉 https://github.com/29swastik/langchain-skills-adapter
 
 - Plug-and-play skill integration for LangChain agents  
-- Simplifies building modular agent workflows  
+- Simplifies building agent with skills  
 
 ---
 
@@ -103,19 +103,4 @@ My focus is simple: **build AI systems that actually work in production** — no
 - ML System Design  
 - Evaluation & Observability  
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=29swastik&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=29swastik&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/swastik-k-173b84151/  
-- Portfolio: https://29swastik.github.io/  
-- Email: kswastik29@gmail.com  
+> Building AI systems that are not just intelligent, but reliable, measurable, and production-ready.
